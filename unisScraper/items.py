@@ -18,5 +18,5 @@ class unisScraperItem(Item):
 
 
     # Primary fields
-    text =  Field()
+    text = Field()
 
